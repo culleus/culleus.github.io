@@ -1,6 +1,6 @@
 ---
 title: my first post
-date: 2024-10-20 00:00:00 +0800
+date: 2024-10-20 23:00:00 +0800
 categories: [blog]
 tags: [blog]
 ---
