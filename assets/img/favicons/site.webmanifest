@@ -21,7 +21,7 @@ layout: compress
       "purpose": "maskable"
     }
   ],
-"start_url": "{{'/index.html' \ relative_url}}"
+"start_url": "{{'/index.html' | relative_url}}"
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone"
