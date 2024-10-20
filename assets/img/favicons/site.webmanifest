@@ -1,6 +1,4 @@
----
-layout: compress
----
+
 {% assign favicon_path = "/assets/img/favicons"  %
 }
 
