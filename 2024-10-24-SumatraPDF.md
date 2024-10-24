@@ -1,1 +1,0 @@
-[sumatrapdf](https://www.sumatrapdfreader.org/free-pdf-reader)是一款轻便的pdf阅读器
