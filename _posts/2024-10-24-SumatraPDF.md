@@ -11,13 +11,13 @@ tags: [软件]
 
 点开设置-高级选项，在打开的txt文档中找到Shortcuts，插入以下代码
 ```
-  [
+[
 		Cmd = CmdCreateAnnotUnderline
 		Key = w, W
-	]
-	[
+]
+[
 		Cmd = CmdCreateAnnotSquiggly
 		Key = g, G
-	]
+]
 ```
 然后保存文档，即设置快捷键成功。加上自带的高亮标注，已有三种标注方式
