@@ -6,6 +6,7 @@ tags: [软件]
 ---
 
 [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)是一款轻便的pdf阅读器
+
 以下为设置下划线和波浪线的快捷键的流程：
 
 点开设置-高级选项，在打开的txt文档中找到Shortcuts，插入以下代码
