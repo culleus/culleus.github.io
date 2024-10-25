@@ -1,5 +1,5 @@
 ---
-title: 1025_learning_record
+title: learning_record_1025
 date: 2024-10-25 17:20:00 +0800
 categories: [learn]
 tags: [learn, 软件]
@@ -36,6 +36,7 @@ BiocManager::install("phyloseq")
 ```
 prefetch.exe --option-file SRR_Acc_List.txt
 ```
+
 即可下载<br>
 此时下载得到的文件为sra格式，需要转化为fastq格式
 使用fasterq
