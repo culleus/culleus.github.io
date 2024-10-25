@@ -37,6 +37,6 @@ BiocManager::install("phyloseq")
 prefetch.exe --option-file SRR_Acc_List.txt
 ```
 即可下载<br>
-教程参考<br>
+
 
 [^footnote]:[如何从NCBI下载别人的原始数据](http://www.yingbio.com/article-35507-204466.html)
