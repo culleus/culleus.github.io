@@ -9,6 +9,7 @@ tags: [learn]
 首先是tor的下载，我选择的是通过telegram的[gettor机器人](https://t.me/gettor_bot)获取exe文件，下载到电脑上，然后安装好。
 
 打开tor浏览器，配置tor网络（失败）：由于身处墙内，选择使用代理，并使用官方提供的网桥，只需输入验证码，再点击复制，粘贴到替换网桥，测试tor网络连接，失败。
+解决方法：用代理连，先关掉V2rayN的流量嗅探，然后根据[这个](https://nodebe4.github.io/opinion/2020-07-31/%E5%A6%82%E4%BD%95%E7%94%A8%E5%89%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E8%AE%BF%E9%97%AETor%E6%B5%8F%E8%A7%88%E5%99%A8-%E4%BB%A5%E4%B8%BB%E6%B5%81%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BE%8B/)进行配置
 
 ## 复现论文
 
