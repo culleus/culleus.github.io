@@ -18,7 +18,7 @@ DOI:[https://doi.org/10.1111/gcb.17465](https://doi.org/10.1111/gcb.17465)
 
 R语言脚本和原始数据在[这里](https://www.research-collection.ethz.ch/handle/20.500.11850/685531)
 
-从[清华镜像](https://mirrors.tuna.tsinghua.edu.cn/CRAN/)下载R 4.4.1 base以及 Rtools44，下载[rstudio](https://posit.co/download/rstudio-desktop/) 打开rstudio，设置清华镜像下载package
+从[清华镜像](https://mirrors.tuna.tsinghua.edu.cn/CRAN/)下载R 4.4.1 base以及 Rtools44，下载[rstudio](https://posit.co/download/rstudio-desktop/) ，打开rstudio，设置清华镜像下载package
 ```
 options("repos" = c(CRAN="https://mirrors.tuna.tsinghua.edu.cn/CRAN/"))
 ```
@@ -30,3 +30,8 @@ if (!require("BiocManager", quietly = TRUE))
 BiocManager::install("swfdr")
 BiocManager::install("phyloseq")
 ```
+## 从ncbi中下载sra
+
+
+教程参考：
+
