@@ -38,5 +38,6 @@ prefetch.exe --option-file SRR_Acc_List.txt
 ```
 即可下载<br>
 此时下载得到的文件为sra格式，需要转化为fastq格式
+使用fasterq
 
 [^footnote]:[如何从NCBI下载别人的原始数据](http://www.yingbio.com/article-35507-204466.html)
