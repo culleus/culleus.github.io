@@ -32,7 +32,9 @@ BiocManager::install("phyloseq")
 ```
 ## 从ncbi中下载sra
 
-下载[SRAToolkit](https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit)，解压到本文件夹，配置[^footnote]。在ncbi中下载Accession list，在cmd中输入<br>
+下载[SRAToolkit](https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit)，解压到本文件夹，配置。[^footnote]
+
+在ncbi中下载Accession list，在cmd中输入<br>
 ```
 prefetch.exe --option-file SRR_Acc_List.txt
 ```
