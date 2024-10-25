@@ -34,6 +34,6 @@ BiocManager::install("phyloseq")
 
 下载SRAToolkit[^footnote]
 
-教程参考
+教程参考<br>
 
-[^footnote]: [如何从NCBI下载别人的原始数据](http://www.yingbio.com/article-35507-204466.html)
+[^footnote]:[如何从NCBI下载别人的原始数据](http://www.yingbio.com/article-35507-204466.html)
