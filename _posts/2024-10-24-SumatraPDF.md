@@ -7,7 +7,7 @@ tags: [软件]
 
 [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)是一款轻便的pdf阅读器
 
-以下为设置下划线和波浪线的快捷键的流程：
+以下为设置下划线和波浪线以及保存批注的快捷键的流程：
 
 点开设置-高级选项，在打开的txt文档中找到Shortcuts，插入以下代码
 ```
@@ -19,5 +19,9 @@ tags: [软件]
   Cmd = CmdCreateAnnotSquiggly
   Key = g, G
 ]
+[
+  Cmd = CmdSaveAnnotations
+  Key = s, S
+]
 ```
-然后保存文档，即设置快捷键成功。加上自带的高亮标注，已有三种标注方式
+然后保存文档，即设置快捷键成功。加上自带的高亮标注(快捷键a)，已有三种标注方式。
