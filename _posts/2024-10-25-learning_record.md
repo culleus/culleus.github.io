@@ -32,6 +32,6 @@ BiocManager::install("phyloseq")
 ```
 ## 从ncbi中下载sra
 
-
+[^footnote]
 教程参考：
-
+[^footnote]:http://www.yingbio.com/article-35507-204466.html
