@@ -32,7 +32,7 @@ BiocManager::install("phyloseq")
 ```
 ## 从ncbi中下载sra
 
-下载[SRAToolkit](https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit)，解压到本文件夹，配置。[^footnote]
+下载[SRAToolkit](https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit)，解压到本文件夹，配置。
 
 在ncbi中下载Accession list，在cmd中输入<br>
 ```
@@ -43,4 +43,4 @@ prefetch.exe --option-file SRR_Acc_List.txt
 此时下载得到的文件为sra格式，需要转化为fastq格式
 使用fasterq
 
-[^footnote]:[如何从NCBI下载别人的原始数据](http://www.yingbio.com/article-35507-204466.html)
+[如何从NCBI下载别人的原始数据](http://www.yingbio.com/article-35507-204466.html)
