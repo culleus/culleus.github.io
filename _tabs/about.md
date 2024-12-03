@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-**happy free confused and lonely**
+**happy, free, confused and lonely**
 
-# profile
-还在学习中的研究生，论文遥遥无期
-
+# 友链
+[庭说](https://www.tingtalk.me/)
+[阮一峰](https://www.ruanyifeng.com/blog/)
