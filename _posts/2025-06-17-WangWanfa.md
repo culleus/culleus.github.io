@@ -1,5 +1,5 @@
 ---
-title:wang wan fa
+title:wang_wanfa
 date: 2025-06-17 23:56:00 +0800
 categories: [article]
 tags: [article]
