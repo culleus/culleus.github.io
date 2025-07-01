@@ -42,7 +42,6 @@ math: TRUE
 # 贵州
 ## 贵州大学
 [王万发](https://scholar.google.com/citations?user=r5SIYAQAAAAJ&hl=zh-CN&oi=sra)
-
 [researchgate](https://www.researchgate.net/profile/Wanfa-Wang)
 
 吴起鑫 [researchgate](https://www.researchgate.net/profile/Qixin-Wu)
@@ -64,7 +63,7 @@ math: TRUE
 [李思悦](https://scholar.google.com/citations?user=HXqucggAAAAJ&hl=zh-CN&oi=ao)
 # 四川
 ## 四川大学
-冯镜洁
+冯镜洁 [researchgate](https://www.researchgate.net/profile/Jingjie-Feng)
 
 [宋春林](https://scholar.google.com/citations?user=ULVszuoAAAAJ&hl=zh-CN&oi=ao)
 # 上海
