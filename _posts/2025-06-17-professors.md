@@ -19,7 +19,7 @@ math: TRUE
 
 包宇飞 [researchgate](https://www.researchgate.net/profile/Yufei-Bao)
 ## 北京师范大学
-夏星辉
+夏星辉 [researchgate](https://www.researchgate.net/profile/Xinghui-Xia-2)
 
 [李春晖](https://scholar.google.com/citations?user=c8YnFTIAAAAJ&hl=zh-CN&oi=ao)
 ## 植物研究所
@@ -45,7 +45,7 @@ math: TRUE
 
 [researchgate](https://www.researchgate.net/profile/Wanfa-Wang)
 
-吴起鑫
+吴起鑫 [researchgate](https://www.researchgate.net/profile/Qixin-Wu)
 ## 中科院地化所
 袁权
 
@@ -57,7 +57,7 @@ math: TRUE
 [吴晓东](https://scholar.google.com/citations?user=vCwbpU8AAAAJ&hl=zh-CN&oi=ao)
 # 重庆
 ## 重庆师范大学
-蒲俊兵
+蒲俊兵 [researchgate](https://www.researchgate.net/profile/Junbing-Pu)
 ## 中科院重庆绿色智能所
 [李哲](https://scholar.google.com/citations?user=9y07XCoAAAAJ&hl=zh-CN&oi=sra)
 
