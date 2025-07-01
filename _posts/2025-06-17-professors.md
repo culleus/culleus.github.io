@@ -33,6 +33,7 @@ math: TRUE
 # 天津
 ## 天津大学
 [李思亮](https://scholar.google.com/citations?user=6XJZuUgAAAAJ&hl=zh-CN&oi=ao)
+[researchgate](https://www.researchgate.net/profile/Si-Liang-Li)
 
 [晏智锋](https://scholar.google.com/citations?user=Lav81gUAAAAJ&hl=zh-CN)
 
@@ -41,6 +42,8 @@ math: TRUE
 王宝利 [researchgate](https://www.researchgate.net/profile/Baoli-Wang)
 
 刘丛强 [researchgate](https://www.researchgate.net/profile/Cong-Qiang-Liu)
+
+钟君 [researchgate](https://www.researchgate.net/profile/Jun-Zhong-16)
 # 贵州
 ## 贵州大学
 [王万发](https://scholar.google.com/citations?user=r5SIYAQAAAAJ&hl=zh-CN&oi=sra)
@@ -73,7 +76,9 @@ math: TRUE
 [王东启](https://scholar.google.com/citations?user=glGbpWYAAAAJ&hl=zh-CN&oi=ao)
 
 [梁霞](https://scholar.google.com/citations?hl=zh-CN&user=Fdjq_3wAAAAJ)
+[researchgate](https://www.researchgate.net/profile/Xia-Liang-5)
 
+汪福顺 [researchgate](https://www.researchgate.net/profile/Fushun-Wang-3)
 ## 上海大学
 [陈雪萍](https://scholar.google.com/citations?user=2RtCuJsAAAAJ&hl=zh-CN&oi=sra)
 # 江苏
