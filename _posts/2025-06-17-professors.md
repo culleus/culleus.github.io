@@ -1,5 +1,5 @@
 ---
-title: professors and PhD
+title: Professors and PhD
 date: 2025-06-17 23:00:00 +0800
 categories: [article]
 tags: [article]
@@ -17,7 +17,7 @@ math: TRUE
 ## 中国水利水电科学研究院
 王雨春
 
-包宇飞
+包宇飞 [researchgate](https://www.researchgate.net/profile/Yufei-Bao)
 ## 北京师范大学
 夏星辉
 
