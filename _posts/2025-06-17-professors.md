@@ -38,7 +38,9 @@ math: TRUE
 
 [童银栋](https://scholar.google.com/citations?user=LDkJqh4AAAAJ&hl=zh-CN&oi=ao)
 
-王宝利
+王宝利 [researchgate](https://www.researchgate.net/profile/Baoli-Wang)
+
+刘丛强 [researchgate](https://www.researchgate.net/profile/Cong-Qiang-Liu)
 # 贵州
 ## 贵州大学
 [王万发](https://scholar.google.com/citations?user=r5SIYAQAAAAJ&hl=zh-CN&oi=sra)
