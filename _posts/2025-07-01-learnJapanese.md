@@ -7,4 +7,9 @@ math: TRUE
 ---
 
 出口仁 大家的日语
+
 [【改訂版】大家的日本語文法解說](https://www.youtube.com/playlist?list=PLynCeSdpMqxCW-AfMtmIlASAMUVq8wX6k)
+
+改订版 1-50课
+## 第一课内容：
+文型 faljfja
