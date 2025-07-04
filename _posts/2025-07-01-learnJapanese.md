@@ -14,6 +14,6 @@ math: TRUE
 
 [nhk日语](https://www3.nhk.or.jp/nhkworld/lesson/zh/)
 
-[studykanji](http://studykanji.net/)
+studykanji:  http://studykanji.net/
 
 [ojad](https://www.gavo.t.u-tokyo.ac.jp/ojad/search)
