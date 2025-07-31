@@ -24,8 +24,12 @@ $$ \delta ^{13} C_{DIC} 范围为−10.7‰ to −6.0‰$$
 
 ## [2020JH](https://doi.org/10.1016/j.jhydrol.2020.125590)
 珠江上4个水库 4个季节
-
 造新词 Ri  reservoir effect index
+
+## [2020ste](https://doi.org/10.1016/j.scitotenv.2019.135628)
+PLS建模
+SIMCA-P软件 指标有R2Y Q2
+
 ## [2024WR](https://doi.org/10.1016/j.watres.2023.120893)
 乌江渡vs上犹江
 
