@@ -11,6 +11,8 @@ math: TRUE
 [杨正健](https://scholar.google.com/citations?user=4H4f_3cAAAAJ&hl=zh-CN&oi=ao)
 ## 武汉大学
 [周研来](https://scholar.google.com/citations?user=lbRMYGsAAAAJ&hl=zh-CN&oi=ao)
+## 武汉工程大学
+[李思悦](https://scholar.google.com/citations?user=HXqucggAAAAJ&hl=zh-CN)
 # 2.北京
 ## 北京大学
 [王婷](https://scholar.google.com/citations?hl=zh-CN&user=mVvb-tYAAAAJ)
@@ -97,6 +99,9 @@ math: TRUE
 # 10.广东
 ## 中山大学
 [李鹏辉](https://scholar.google.com/citations?user=iBdV6_wAAAAJ&hl=zh-CN&oi=sra)
+[侯雪姣](https://scholar.google.com/citations?user=I8M56_UAAAAJ&hl=zh-CN&oi=sra)
+## 广东工业大学
+[徐志豪](https://scholar.google.com/citations?user=nZfsSnQAAAAJ&hl=zh-CN&oi=sra)
 # 11.香港
 [易沅壁](https://scholar.google.com/citations?user=d7LNNCoAAAAJ&hl=zh-CN)
 
@@ -118,3 +123,6 @@ math: TRUE
 
 # 15.西藏
 ## 青藏高原研究所
+# 新加坡
+## 新加坡国立大学
+[吕喜玺](https://scholar.google.com/citations?user=QiPs_kQAAAAJ&hl=zh-CN&oi=sra)
